@@ -1,4 +1,4 @@
 # Ilya30u30
-Implementing AI paper’s one @ a time
+Implementing AI paper’s
 
 1-Binary classification 
